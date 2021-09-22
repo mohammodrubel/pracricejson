@@ -1,0 +1,39 @@
+{
+	"random": 95,
+	"random float": 80.242,
+	"bool": true,
+	"date": "1997-02-08",
+	"regEx": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you",
+	"enum": "generator",
+	"firstname": "Linet",
+	"lastname": "Gamaliel",
+	"city": "Lyon",
+	"country": "Zimbabwe",
+	"countryCode": "TC",
+	"email uses current data": "Linet.Gamaliel@gmail.com",
+	"email from expression": "Linet.Gamaliel@yopmail.com",
+	"array": [
+		"Dione",
+		"Elise",
+		"Steffane",
+		"Halette",
+		"Sharlene"
+	],
+	"array of objects": [
+		{
+			"index": 0,
+			"index start at 5": 5
+		},
+		{
+			"index": 1,
+			"index start at 5": 6
+		},
+		{
+			"index": 2,
+			"index start at 5": 7
+		}
+	],
+	"Joeann": {
+		"age": 50
+	}
+}
